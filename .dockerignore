@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.pgdata
+.pgdev.log
+.api.log
+uploads
+seed
+scripts

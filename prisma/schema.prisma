@@ -1,0 +1,129 @@
+generator client {
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x", "debian-openssl-3.0.x"]
+}
+
+datasource db {
+  url      = env("DATABASE_URL")
+  provider = "postgresql"
+}
+
+model Admin {
+  id           Int      @id @default(autoincrement())
+  email        String   @unique
+  nombre       String
+  passwordHash String
+  creado       DateTime @default(now())
+}
+
+model Categoria {
+  id          Int        @id @default(autoincrement())
+  slug        String     @unique
+  nombre      String
+  descripcion String     @default("")
+  orden       Int        @default(0)
+  activa      Boolean    @default(true)
+  productos   Producto[]
+}
+
+model Producto {
+  id           Int                 @id @default(autoincrement())
+  slug         String              @unique
+  nombre       String
+  categoriaId  Int
+  categoria    Categoria           @relation(fields: [categoriaId], references: [id])
+  seccion      String              @default("")
+  material     String              @default("")
+  descripcion  String              @default("")
+  agotado      Boolean             @default(false)
+  oculto       Boolean             @default(false)
+  destacado    Boolean             @default(false)
+  nuevo        Boolean             @default(false)
+  escogeDiseno Boolean             @default(false)
+  orden        Int                 @default(0)
+  creado       DateTime            @default(now())
+  actualizado  DateTime            @updatedAt
+  variantes    Variante[]
+  opciones     Opcion[]
+  fotos        Foto[]
+  colecciones  ProductoColeccion[]
+
+  @@index([categoriaId])
+  @@index([orden])
+}
+
+model Variante {
+  id         Int      @id @default(autoincrement())
+  productoId Int
+  producto   Producto @relation(fields: [productoId], references: [id], onDelete: Cascade)
+  tipo       String
+  precio     Decimal  @db.Decimal(10, 2)
+  sku        String?
+  agotado    Boolean  @default(false)
+  orden      Int      @default(0)
+
+  @@index([productoId])
+}
+
+model Opcion {
+  id         Int      @id @default(autoincrement())
+  productoId Int
+  producto   Producto @relation(fields: [productoId], references: [id], onDelete: Cascade)
+  nombre     String
+  valores    String[]
+  requerida  Boolean  @default(false)
+  orden      Int      @default(0)
+
+  @@index([productoId])
+}
+
+model Foto {
+  id         Int      @id @default(autoincrement())
+  productoId Int
+  producto   Producto @relation(fields: [productoId], references: [id], onDelete: Cascade)
+  archivo    String
+  ancho      Int      @default(0)
+  alto       Int      @default(0)
+  orden      Int      @default(0)
+
+  @@index([productoId])
+}
+
+model Coleccion {
+  id          Int                 @id @default(autoincrement())
+  slug        String              @unique
+  nombre      String
+  descripcion String              @default("")
+  foto        String?
+  orden       Int                 @default(0)
+  activa      Boolean             @default(true)
+  productos   ProductoColeccion[]
+}
+
+model ProductoColeccion {
+  productoId  Int
+  coleccionId Int
+  producto    Producto  @relation(fields: [productoId], references: [id], onDelete: Cascade)
+  coleccion   Coleccion @relation(fields: [coleccionId], references: [id], onDelete: Cascade)
+
+  @@id([productoId, coleccionId])
+}
+
+model Color {
+  id     Int    @id @default(autoincrement())
+  nombre String @unique
+  hex    String
+}
+
+model Faq {
+  id        Int     @id @default(autoincrement())
+  pregunta  String
+  respuesta String
+  orden     Int     @default(0)
+  activa    Boolean @default(true)
+}
+
+model Ajuste {
+  clave String @id
+  valor Json
+}

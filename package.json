@@ -1,0 +1,33 @@
+{
+  "name": "lemonel-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch --env-file=.env src/index.ts",
+    "build": "prisma generate && tsc",
+    "start": "node dist/index.js",
+    "db:dev": "tsx scripts/dev-db.ts",
+    "db:push": "prisma db push",
+    "db:migrate": "prisma migrate dev",
+    "db:deploy": "prisma migrate deploy",
+    "importar": "tsx --env-file=.env scripts/importar.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "@prisma/client": "^6.2.1",
+    "bcryptjs": "^2.4.3",
+    "hono": "^4.6.16",
+    "jose": "^5.9.6",
+    "prisma": "^6.2.1",
+    "sharp": "^0.33.5",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^22.10.5",
+    "embedded-postgres": "^17.2.0-beta.15",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

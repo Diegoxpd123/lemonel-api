@@ -1,0 +1,7726 @@
+{
+ "config": {
+  "whatsapp": "51981101636",
+  "instagram": "lemonel.pe",
+  "tiktok": "lemonel.pe",
+  "faq": [
+   [
+    "¿Qué valor tiene el envío?",
+    "Motorizado en Lima S/10. A través de Shalom S/8."
+   ],
+   [
+    "¿Qué días hacemos envíos?",
+    "Martes y sábados."
+   ],
+   [
+    "¿Con cuánto puedo separar?",
+    "Puedes separar tu pedido con S/15 y tienes hasta tres meses para completarlo y acumular."
+   ],
+   [
+    "¿Puedo cambiar una pieza?",
+    "Después de separar tus piezas, tienes máximo 72 horas para solicitar un cambio por otra pieza."
+   ],
+   [
+    "¿Hay devoluciones o cambios?",
+    "No hay devoluciones ni cambios."
+   ]
+  ]
+ },
+ "productos": [
+  {
+   "slug": "rosa-vintage-1",
+   "nombre": "Rosa Vintage 1",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Pieza con perlas.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 2,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1010"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "rosa-vintage-1-1.webp",
+     "w": 466,
+     "h": 450
+    }
+   ]
+  },
+  {
+   "slug": "bella-y-bestia",
+   "nombre": "Bella y Bestia",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Pieza con circones y dije de rosa en nácar.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 2,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1011"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "bella-y-bestia-1.webp",
+     "w": 479,
+     "h": 471
+    },
+    {
+     "archivo": "bella-y-bestia-2.webp",
+     "w": 561,
+     "h": 669
+    },
+    {
+     "archivo": "bella-y-bestia-3.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "rosa-vintage",
+   "nombre": "Rosa Vintage",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Dije de rosa en relieve.",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 3,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1012"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "rosa-vintage-1.webp",
+     "w": 449,
+     "h": 498
+    },
+    {
+     "archivo": "rosa-vintage-2.webp",
+     "w": 600,
+     "h": 681
+    },
+    {
+     "archivo": "rosa-vintage-3.webp",
+     "w": 547,
+     "h": 609
+    }
+   ]
+  },
+  {
+   "slug": "corazon-minimalista",
+   "nombre": "Corazón Minimalista",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Base con circón y dije de corazón calado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 4,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1013"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm",
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-minimalista-1.webp",
+     "w": 428,
+     "h": 474
+    },
+    {
+     "archivo": "corazon-minimalista-2.webp",
+     "w": 576,
+     "h": 670
+    },
+    {
+     "archivo": "corazon-minimalista-3.webp",
+     "w": 600,
+     "h": 639
+    }
+   ]
+  },
+  {
+   "slug": "perlas",
+   "nombre": "Perlas",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Cadena de perlas premium con acabado nacarado brillante",
+   "descripcion": "Opcionalmente se le puede añadir un regulador de 5 cm.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 5,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1014"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "40 cm",
+      "45 cm"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "perlas-1.webp",
+     "w": 433,
+     "h": 480
+    },
+    {
+     "archivo": "perlas-2.webp",
+     "w": 480,
+     "h": 563
+    },
+    {
+     "archivo": "perlas-3.webp",
+     "w": 600,
+     "h": 727
+    }
+   ]
+  },
+  {
+   "slug": "trebol-magico",
+   "nombre": "Trébol Mágico",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Pieza en acero 316L con circones",
+   "descripcion": "Puedes usarlo de dos formas: como un trébol de cuatro hojas o ábrelo para descubrir cuatro corazones colgantes.",
+   "agotado": false,
+   "destacado": true,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 6,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1015"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm",
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "trebol-magico-1.webp",
+     "w": 440,
+     "h": 477
+    },
+    {
+     "archivo": "trebol-magico-2.webp",
+     "w": 497,
+     "h": 589
+    },
+    {
+     "archivo": "trebol-magico-3.webp",
+     "w": 485,
+     "h": 576
+    }
+   ]
+  },
+  {
+   "slug": "tulipan",
+   "nombre": "Tulipán",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Tulipán con cristal de colores. Disponible como collar, aretes o set.",
+   "agotado": false,
+   "destacado": true,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 7,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1016"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 18,
+     "sku": "1017"
+    },
+    {
+     "tipo": "Set",
+     "precio": 45,
+     "sku": "1018"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm",
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rojo",
+      "Morado",
+      "Rosado",
+      "Tornasolado",
+      "Cristalino",
+      "Azul"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "tulipan-1.webp",
+     "w": 390,
+     "h": 398
+    },
+    {
+     "archivo": "tulipan-2.webp",
+     "w": 547,
+     "h": 666
+    },
+    {
+     "archivo": "tulipan-3.webp",
+     "w": 535,
+     "h": 615
+    }
+   ]
+  },
+  {
+   "slug": "tulipan-traslucido",
+   "nombre": "Tulipán Traslúcido",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 8,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1019"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "tulipan-traslucido-1.webp",
+     "w": 480,
+     "h": 521
+    }
+   ]
+  },
+  {
+   "slug": "tulipan-tornasolado",
+   "nombre": "Tulipán Tornasolado",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 8,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1020"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "tulipan-tornasolado-1.webp",
+     "w": 426,
+     "h": 461
+    }
+   ]
+  },
+  {
+   "slug": "tulipan-rosado",
+   "nombre": "Tulipán Rosado",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 8,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1021"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "tulipan-rosado-1.webp",
+     "w": 484,
+     "h": 535
+    }
+   ]
+  },
+  {
+   "slug": "tulipan-rojo",
+   "nombre": "Tulipán Rojo",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 8,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1022"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "tulipan-rojo-1.webp",
+     "w": 480,
+     "h": 532
+    }
+   ]
+  },
+  {
+   "slug": "van-cleef",
+   "nombre": "Van Cleef",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Trébol de cuatro hojas. Disponible como collar, aretes, pulsera o set.",
+   "agotado": false,
+   "destacado": true,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 9,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1023"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 17,
+     "sku": "1024"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1025"
+    },
+    {
+     "tipo": "Set",
+     "precio": 70,
+     "sku": "1026"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Negro",
+      "Blanco",
+      "Dorado",
+      "Verde",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "van-cleef-1.webp",
+     "w": 480,
+     "h": 532
+    },
+    {
+     "archivo": "van-cleef-2.webp",
+     "w": 600,
+     "h": 693
+    },
+    {
+     "archivo": "van-cleef-3.webp",
+     "w": 502,
+     "h": 580
+    }
+   ]
+  },
+  {
+   "slug": "van-cleef-5-dijes",
+   "nombre": "Van Cleef 5 Dijes",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Cadena con cinco tréboles. Combina el color de la cadena con el del dije.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 10,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 33,
+     "sku": "1027"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color del dije",
+     "valores": [
+      "Rojo",
+      "Blanco",
+      "Verde",
+      "Azul",
+      "Rosado",
+      "Negro",
+      "Vino",
+      "Celeste"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "van-cleef-5-dijes-1.webp",
+     "w": 432,
+     "h": 585
+    },
+    {
+     "archivo": "van-cleef-5-dijes-2.webp",
+     "w": 292,
+     "h": 1114
+    },
+    {
+     "archivo": "van-cleef-5-dijes-3.webp",
+     "w": 512,
+     "h": 626
+    }
+   ]
+  },
+  {
+   "slug": "mini-van-cleef-5-dijes",
+   "nombre": "Mini Van Cleef 5 Dijes",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Versión mini con cinco tréboles. Disponible como collar, pulsera, aretes o set.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 11,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1028"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1029"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 17,
+     "sku": "1030"
+    },
+    {
+     "tipo": "Set",
+     "precio": 68,
+     "sku": "1031"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rosado nacarado",
+      "Rosado bebé",
+      "Verde bebé",
+      "Negro",
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mini-van-cleef-5-dijes-1.webp",
+     "w": 449,
+     "h": 519
+    },
+    {
+     "archivo": "mini-van-cleef-5-dijes-2.webp",
+     "w": 600,
+     "h": 723
+    },
+    {
+     "archivo": "mini-van-cleef-5-dijes-3.webp",
+     "w": 600,
+     "h": 735
+    }
+   ]
+  },
+  {
+   "slug": "trebol-giratorio",
+   "nombre": "Trébol Giratorio",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Con circones. Dije que gira.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 12,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1032"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "trebol-giratorio-1.webp",
+     "w": 451,
+     "h": 612
+    },
+    {
+     "archivo": "trebol-giratorio-2.webp",
+     "w": 540,
+     "h": 651
+    },
+    {
+     "archivo": "trebol-giratorio-3.webp",
+     "w": 450,
+     "h": 552
+    }
+   ]
+  },
+  {
+   "slug": "collar-trebol-doble",
+   "nombre": "Collar Trébol Doble",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Dije de doble uso: cara de circones y cara de fondo negro o blanco.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 13,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1032"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Cara del dije",
+     "valores": [
+      "Negro",
+      "Blanco"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-trebol-doble-1.webp",
+     "w": 402,
+     "h": 546
+    },
+    {
+     "archivo": "collar-trebol-doble-2.webp",
+     "w": 600,
+     "h": 724
+    },
+    {
+     "archivo": "collar-trebol-doble-3.webp",
+     "w": 475,
+     "h": 583
+    }
+   ]
+  },
+  {
+   "slug": "cadena-cartier",
+   "nombre": "Cadena Cartier",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Eslabones alargados en tres grosores. Disponible como cadena o pulsera.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 14,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 27,
+     "sku": "1033"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1034"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "40 cm",
+      "45 cm",
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Grosor",
+     "valores": [
+      "1",
+      "2",
+      "3"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "cadena-cartier-1.webp",
+     "w": 435,
+     "h": 589
+    },
+    {
+     "archivo": "cadena-cartier-2.webp",
+     "w": 489,
+     "h": 600
+    },
+    {
+     "archivo": "cadena-cartier-3.webp",
+     "w": 600,
+     "h": 724
+    }
+   ]
+  },
+  {
+   "slug": "cadena-cordon",
+   "nombre": "Cadena Cordón",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Cadena trenzada. Disponible como cadena o pulsera.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 15,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 30,
+     "sku": "1035"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1036"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm",
+      "50 cm",
+      "60 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "cadena-cordon-1.webp",
+     "w": 442,
+     "h": 600
+    },
+    {
+     "archivo": "cadena-cordon-2.webp",
+     "w": 543,
+     "h": 665
+    },
+    {
+     "archivo": "cadena-cordon-3.webp",
+     "w": 497,
+     "h": 600
+    }
+   ]
+  },
+  {
+   "slug": "cadena-snake",
+   "nombre": "Cadena Snake",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Cadena plana de acabado espejo. Disponible como cadena o pulsera.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 16,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 27,
+     "sku": "1037"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1038"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm",
+      "60 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "cadena-snake-1.webp",
+     "w": 434,
+     "h": 589
+    },
+    {
+     "archivo": "cadena-snake-2.webp",
+     "w": 489,
+     "h": 600
+    },
+    {
+     "archivo": "cadena-snake-3.webp",
+     "w": 487,
+     "h": 587
+    }
+   ]
+  },
+  {
+   "slug": "cadena-eslabon",
+   "nombre": "Cadena Eslabón",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Cadena de eslabones en tres grosores.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 17,
+   "variantes": [
+    {
+     "tipo": "Delgado",
+     "precio": 25,
+     "sku": "1039"
+    },
+    {
+     "tipo": "Mediano",
+     "precio": 27,
+     "sku": "1040"
+    },
+    {
+     "tipo": "Grueso",
+     "precio": 30,
+     "sku": "1041"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "40 cm",
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "cadena-eslabon-1.webp",
+     "w": 502,
+     "h": 683
+    },
+    {
+     "archivo": "cadena-eslabon-2.webp",
+     "w": 506,
+     "h": 620
+    },
+    {
+     "archivo": "cadena-eslabon-3.webp",
+     "w": 512,
+     "h": 616
+    }
+   ]
+  },
+  {
+   "slug": "flor-hawaiana",
+   "nombre": "Flor Hawaiana",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Flor en relieve. Disponible como cadena, pulsera o aretes.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 18,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 30,
+     "sku": "1042"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1043"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1044"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flor-hawaiana-1.webp",
+     "w": 516,
+     "h": 701
+    },
+    {
+     "archivo": "flor-hawaiana-2.webp",
+     "w": 445,
+     "h": 544
+    },
+    {
+     "archivo": "flor-hawaiana-3.webp",
+     "w": 540,
+     "h": 650
+    }
+   ]
+  },
+  {
+   "slug": "collar-sol-espiral",
+   "nombre": "Collar Sol Espiral",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Sol en espiral. Disponible como cadena, pulsera o aretes.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 19,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 30,
+     "sku": "1045"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1046"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1047"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-sol-espiral-1.webp",
+     "w": 363,
+     "h": 493
+    },
+    {
+     "archivo": "collar-sol-espiral-2.webp",
+     "w": 459,
+     "h": 561
+    },
+    {
+     "archivo": "collar-sol-espiral-3.webp",
+     "w": 540,
+     "h": 648
+    }
+   ]
+  },
+  {
+   "slug": "soles",
+   "nombre": "Soles",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Varios modelos de sol. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 20,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1047"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Modelo",
+     "valores": [],
+     "requerida": true
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "soles-1.webp",
+     "w": 397,
+     "h": 441
+    },
+    {
+     "archivo": "soles-2.webp",
+     "w": 600,
+     "h": 721
+    },
+    {
+     "archivo": "soles-3.webp",
+     "w": 600,
+     "h": 731
+    }
+   ]
+  },
+  {
+   "slug": "collar-espiral",
+   "nombre": "Collar Espiral",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Espiral en relieve. Disponible como cadena o aretes.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 21,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 30,
+     "sku": "1048"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1049"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-espiral-1.webp",
+     "w": 443,
+     "h": 600
+    },
+    {
+     "archivo": "collar-espiral-2.webp",
+     "w": 442,
+     "h": 541
+    },
+    {
+     "archivo": "collar-espiral-3.webp",
+     "w": 464,
+     "h": 559
+    }
+   ]
+  },
+  {
+   "slug": "estrella-de-mar",
+   "nombre": "Estrella de Mar",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Estrella de mar en relieve. Disponible como cadena, aretes, pulsera o anillo.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 22,
+   "variantes": [
+    {
+     "tipo": "Cadena",
+     "precio": 30,
+     "sku": "1050"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1051"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1052"
+    },
+    {
+     "tipo": "Anillo",
+     "precio": 17,
+     "sku": "1053"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "estrella-de-mar-1.webp",
+     "w": 487,
+     "h": 660
+    },
+    {
+     "archivo": "estrella-de-mar-2.webp",
+     "w": 600,
+     "h": 735
+    },
+    {
+     "archivo": "estrella-de-mar-3.webp",
+     "w": 600,
+     "h": 723
+    }
+   ]
+  },
+  {
+   "slug": "verano",
+   "nombre": "Verano",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Estrella de mar con cadena de bolitas o cadena fina.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 23,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1055"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "verano-1.webp",
+     "w": 471,
+     "h": 640
+    },
+    {
+     "archivo": "verano-2.webp",
+     "w": 480,
+     "h": 579
+    }
+   ]
+  },
+  {
+   "slug": "sol-de-verano",
+   "nombre": "Sol de Verano",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Sol con cadena torsal.",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 23,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1054"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "sol-de-verano-1.webp",
+     "w": 489,
+     "h": 600
+    }
+   ]
+  },
+  {
+   "slug": "mariposa-amatista",
+   "nombre": "Mariposa Amatista",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base de acero inoxidable bañada en oro de 18k",
+   "descripcion": "Mariposa con circones y piedras amatista.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 24,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1057"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mariposa-amatista-1.webp",
+     "w": 424,
+     "h": 580
+    }
+   ]
+  },
+  {
+   "slug": "sol-y-luna",
+   "nombre": "Sol y Luna",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base de acero inoxidable bañada en oro de 18k",
+   "descripcion": "Dije de sol y luna con circones.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 24,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1058"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "sol-y-luna-1.webp",
+     "w": 472,
+     "h": 519
+    }
+   ]
+  },
+  {
+   "slug": "mariposa-nacar",
+   "nombre": "Mariposa Nácar",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base de acero inoxidable bañada en oro de 18k",
+   "descripcion": "Mariposa en nácar con circones.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 24,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1059"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mariposa-nacar-1.webp",
+     "w": 435,
+     "h": 559
+    }
+   ]
+  },
+  {
+   "slug": "mariposa-celeste",
+   "nombre": "Mariposa Celeste",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base de acero inoxidable bañada en oro de 18k",
+   "descripcion": "Mariposa celeste con gota de circón.",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 24,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1060"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mariposa-celeste-1.webp",
+     "w": 512,
+     "h": 542
+    }
+   ]
+  },
+  {
+   "slug": "collar-ovalado",
+   "nombre": "Collar Ovalado",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Piedra negra ovalada. Disponible en forma ovalada y de corazón.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 25,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1061"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Forma",
+     "valores": [
+      "Ovalado",
+      "Corazón"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-ovalado-1.webp",
+     "w": 402,
+     "h": 545
+    },
+    {
+     "archivo": "collar-ovalado-2.webp",
+     "w": 434,
+     "h": 588
+    },
+    {
+     "archivo": "collar-ovalado-3.webp",
+     "w": 378,
+     "h": 464
+    },
+    {
+     "archivo": "collar-ovalado-4.webp",
+     "w": 1122,
+     "h": 1353
+    },
+    {
+     "archivo": "collar-ovalado-5.webp",
+     "w": 460,
+     "h": 563
+    },
+    {
+     "archivo": "collar-ovalado-6.webp",
+     "w": 869,
+     "h": 1048
+    }
+   ]
+  },
+  {
+   "slug": "collar-moneda",
+   "nombre": "Collar Moneda",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Tres modelos disponibles.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 27,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1062"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Modelo",
+     "valores": [
+      "Árbol de la vida",
+      "Virgen",
+      "Medalla ovalada"
+     ],
+     "requerida": true
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-moneda-1.webp",
+     "w": 540,
+     "h": 652
+    },
+    {
+     "archivo": "collar-moneda-2.webp",
+     "w": 465,
+     "h": 630
+    },
+    {
+     "archivo": "collar-moneda-3.webp",
+     "w": 549,
+     "h": 674
+    }
+   ]
+  },
+  {
+   "slug": "romantico",
+   "nombre": "Romántico",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Corazón bombé en cadena snake.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 28,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1065"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "romantico-1.webp",
+     "w": 498,
+     "h": 542
+    },
+    {
+     "archivo": "romantico-2.webp",
+     "w": 468,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "mini-corazon",
+   "nombre": "Mini Corazón",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Cadena fina con pequeños corazones.",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 29,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1066"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mini-corazon-1.webp",
+     "w": 398,
+     "h": 540
+    },
+    {
+     "archivo": "mini-corazon-2.webp",
+     "w": 480,
+     "h": 589
+    },
+    {
+     "archivo": "mini-corazon-3.webp",
+     "w": 561,
+     "h": 676
+    }
+   ]
+  },
+  {
+   "slug": "margarita",
+   "nombre": "Margarita",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Margaritas esmaltadas. Disponible como collar, pulsera o dúo.",
+   "agotado": false,
+   "destacado": true,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 30,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1067"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1068"
+    },
+    {
+     "tipo": "Dúo",
+     "precio": 50,
+     "sku": "1069"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "margarita-1.webp",
+     "w": 471,
+     "h": 640
+    },
+    {
+     "archivo": "margarita-2.webp",
+     "w": 489,
+     "h": 600
+    },
+    {
+     "archivo": "margarita-3.webp",
+     "w": 600,
+     "h": 724
+    }
+   ]
+  },
+  {
+   "slug": "corazon-bomba-chunky",
+   "nombre": "Corazón Bomba Chunky",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Corazón bombé de gran volumen.",
+   "agotado": false,
+   "destacado": true,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 31,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1070"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-bomba-chunky-1.webp",
+     "w": 480,
+     "h": 600
+    },
+    {
+     "archivo": "corazon-bomba-chunky-2.webp",
+     "w": 575,
+     "h": 1128
+    }
+   ]
+  },
+  {
+   "slug": "soluna",
+   "nombre": "Soluna",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L chapado en oro de 18k",
+   "descripcion": "Sol con rostro y cadena de bolitas.",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 32,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1071"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "soluna-1.webp",
+     "w": 442,
+     "h": 600
+    },
+    {
+     "archivo": "soluna-2.webp",
+     "w": 562,
+     "h": 687
+    },
+    {
+     "archivo": "soluna-3.webp",
+     "w": 561,
+     "h": 677
+    }
+   ]
+  },
+  {
+   "slug": "collar-inicial-nacar",
+   "nombre": "Collar Inicial Nácar",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Inicial sobre medallón de nácar. Todas las letras.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 33,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1072"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Letra",
+     "valores": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+     ],
+     "requerida": true
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-inicial-nacar-1.webp",
+     "w": 398,
+     "h": 540
+    },
+    {
+     "archivo": "collar-inicial-nacar-2.webp",
+     "w": 479,
+     "h": 588
+    },
+    {
+     "archivo": "collar-inicial-nacar-3.webp",
+     "w": 600,
+     "h": 722
+    }
+   ]
+  },
+  {
+   "slug": "inicial-minimalista",
+   "nombre": "Inicial Minimalista",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Inicial sobre cadena fina. Todas las letras.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 34,
+   "variantes": [
+    {
+     "tipo": "Collar inicial",
+     "precio": 28,
+     "sku": "1073"
+    },
+    {
+     "tipo": "Inicial + corazón",
+     "precio": 30,
+     "sku": "1074"
+    },
+    {
+     "tipo": "Doble caída + inicial",
+     "precio": 33,
+     "sku": "1075"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Letra",
+     "valores": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+     ],
+     "requerida": true
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "inicial-minimalista-1.webp",
+     "w": 410,
+     "h": 477
+    },
+    {
+     "archivo": "inicial-minimalista-2.webp",
+     "w": 540,
+     "h": 659
+    },
+    {
+     "archivo": "inicial-minimalista-3.webp",
+     "w": 543,
+     "h": 655
+    }
+   ]
+  },
+  {
+   "slug": "inicial-globo",
+   "nombre": "Inicial Globo",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Inicial en forma de globo. Todas las letras, en tamaño grande y pequeño.",
+   "agotado": false,
+   "destacado": true,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 35,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1076"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Tamaño",
+     "valores": [
+      "Grande",
+      "Pequeño"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Letra",
+     "valores": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+     ],
+     "requerida": true
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "inicial-globo-1.webp",
+     "w": 442,
+     "h": 600
+    },
+    {
+     "archivo": "inicial-globo-2.webp",
+     "w": 436,
+     "h": 535
+    },
+    {
+     "archivo": "inicial-globo-3.webp",
+     "w": 537,
+     "h": 648
+    }
+   ]
+  },
+  {
+   "slug": "corazon-perla",
+   "nombre": "Corazón Perla",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Corazón de perla con borde trenzado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 36,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-perla-1.webp",
+     "w": 451,
+     "h": 552
+    },
+    {
+     "archivo": "corazon-perla-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "collares-de-cruz",
+   "nombre": "Collares de Cruz",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Cruces con circones.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 37,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collares-de-cruz-1.webp",
+     "w": 435,
+     "h": 533
+    },
+    {
+     "archivo": "collares-de-cruz-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "cadena-multidijes",
+   "nombre": "Cadena Multidijes",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Cadena con pequeños dijes colgantes.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 38,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "cadena-multidijes-1.webp",
+     "w": 435,
+     "h": 533
+    },
+    {
+     "archivo": "cadena-multidijes-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "collares-multidijes",
+   "nombre": "Collares Multidijes",
+   "categoria": "collares",
+   "seccion": "Collares básicos",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Collar con dijes de mariposas, corazones y circones.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 39,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collares-multidijes-1.webp",
+     "w": 448,
+     "h": 548
+    },
+    {
+     "archivo": "collares-multidijes-2.webp",
+     "w": 502,
+     "h": 638
+    }
+   ]
+  },
+  {
+   "slug": "san-benito",
+   "nombre": "San Benito",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Acero 316L con baño en oro de 18k",
+   "descripcion": "Combinación de cadena cordón con medalla de San Benito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 41,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 40,
+     "sku": "1077"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "san-benito-1.webp",
+     "w": 605,
+     "h": 569
+    }
+   ]
+  },
+  {
+   "slug": "corazon-combinado",
+   "nombre": "Corazón Combinado",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena de bolitas con dije de corazón calado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 41,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 40,
+     "sku": "1078"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-combinado-1.webp",
+     "w": 605,
+     "h": 555
+    }
+   ]
+  },
+  {
+   "slug": "doble-caida-dani",
+   "nombre": "Doble Caída Dani",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena snake y bombita.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 42,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 40,
+     "sku": "1079"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "doble-caida-dani-1.webp",
+     "w": 480,
+     "h": 531
+    },
+    {
+     "archivo": "doble-caida-dani-2.webp",
+     "w": 477,
+     "h": 599
+    },
+    {
+     "archivo": "doble-caida-dani-3.webp",
+     "w": 540,
+     "h": 515
+    }
+   ]
+  },
+  {
+   "slug": "triple-caida-romantic",
+   "nombre": "Triple Caída Romantic",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena snake, cordón y collar con dije de corazón. Puedes escoger el dije.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 43,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 60,
+     "sku": "1082"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "triple-caida-romantic-1.webp",
+     "w": 414,
+     "h": 492
+    },
+    {
+     "archivo": "triple-caida-romantic-2.webp",
+     "w": 504,
+     "h": 604
+    },
+    {
+     "archivo": "triple-caida-romantic-3.webp",
+     "w": 512,
+     "h": 572
+    }
+   ]
+  },
+  {
+   "slug": "triple-caida-brendi",
+   "nombre": "Triple Caída Brendi",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena snake, inicial y mini trébol. Puedes escoger el dije.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 44,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 60,
+     "sku": "1083"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Letra",
+     "valores": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G",
+      "H",
+      "I",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "P",
+      "Q",
+      "R",
+      "S",
+      "T",
+      "U",
+      "V",
+      "W",
+      "X",
+      "Y",
+      "Z"
+     ],
+     "requerida": true
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "triple-caida-brendi-1.webp",
+     "w": 442,
+     "h": 525
+    },
+    {
+     "archivo": "triple-caida-brendi-2.webp",
+     "w": 527,
+     "h": 631
+    },
+    {
+     "archivo": "triple-caida-brendi-3.webp",
+     "w": 600,
+     "h": 671
+    }
+   ]
+  },
+  {
+   "slug": "doble-caida-paty-van",
+   "nombre": "Doble Caída Paty Van",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena de cristales con trébol verde.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 45,
+   "variantes": [
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1084"
+    },
+    {
+     "tipo": "Cristales",
+     "precio": 30,
+     "sku": "1085"
+    },
+    {
+     "tipo": "Van verde",
+     "precio": 30,
+     "sku": "1086"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "doble-caida-paty-van-1.webp",
+     "w": 480,
+     "h": 571
+    },
+    {
+     "archivo": "doble-caida-paty-van-2.webp",
+     "w": 600,
+     "h": 719
+    },
+    {
+     "archivo": "doble-caida-paty-van-3.webp",
+     "w": 441,
+     "h": 495
+    }
+   ]
+  },
+  {
+   "slug": "doble-caida-mini-perla",
+   "nombre": "Doble Caída Mini Perla",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena de eslabones con cadena de mini perlas.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 46,
+   "variantes": [
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1087"
+    },
+    {
+     "tipo": "Eslabones",
+     "precio": 30,
+     "sku": "1088"
+    },
+    {
+     "tipo": "Mini perlas",
+     "precio": 30,
+     "sku": "1089"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "doble-caida-mini-perla-1.webp",
+     "w": 435,
+     "h": 517
+    },
+    {
+     "archivo": "doble-caida-mini-perla-2.webp",
+     "w": 565,
+     "h": 677
+    },
+    {
+     "archivo": "doble-caida-mini-perla-3.webp",
+     "w": 543,
+     "h": 609
+    }
+   ]
+  },
+  {
+   "slug": "doble-caida-eli",
+   "nombre": "Doble Caída Eli",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de cadena snake con trébol dorado. Puedes escoger el color del trébol.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 47,
+   "variantes": [
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1090"
+    },
+    {
+     "tipo": "Trébol",
+     "precio": 33,
+     "sku": "1027"
+    },
+    {
+     "tipo": "Snake",
+     "precio": 30,
+     "sku": "1080"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "doble-caida-eli-1.webp",
+     "w": 442,
+     "h": 525
+    },
+    {
+     "archivo": "doble-caida-eli-2.webp",
+     "w": 512,
+     "h": 614
+    },
+    {
+     "archivo": "doble-caida-eli-3.webp",
+     "w": 540,
+     "h": 606
+    }
+   ]
+  },
+  {
+   "slug": "romantic",
+   "nombre": "Romantic",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación de gargantilla con collar de corazón. Puedes escoger el dije.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 48,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 40,
+     "sku": "1091"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "Gargantilla",
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "romantic-1.webp",
+     "w": 435,
+     "h": 560
+    },
+    {
+     "archivo": "romantic-2.webp",
+     "w": 543,
+     "h": 705
+    }
+   ]
+  },
+  {
+   "slug": "rosatel",
+   "nombre": "Rosatel",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación entre gargantilla con collar de flor traslúcida. Puedes escoger el dije.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 49,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1092"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "rosatel-1.webp",
+     "w": 435,
+     "h": 517
+    },
+    {
+     "archivo": "rosatel-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "bendicion",
+   "nombre": "Bendición",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Combinación entre gargantilla con collar de virgen. Puedes escoger el dije.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 50,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "bendicion-1.webp",
+     "w": 435,
+     "h": 517
+    },
+    {
+     "archivo": "bendicion-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "collar-esfera-dorada",
+   "nombre": "Collar Esfera Dorada",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Collar doble caída con dije de esfera.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 51,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-esfera-dorada-1.webp",
+     "w": 448,
+     "h": 532
+    },
+    {
+     "archivo": "collar-esfera-dorada-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "collar-ilumin",
+   "nombre": "Collar Ilumin",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Collar doble caída con dijes de punto de luz.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 52,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-ilumin-1.webp",
+     "w": 448,
+     "h": 532
+    },
+    {
+     "archivo": "collar-ilumin-2.webp",
+     "w": 566,
+     "h": 715
+    }
+   ]
+  },
+  {
+   "slug": "collar-romina",
+   "nombre": "Collar Romina",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Collar doble caída con dijes de corazón y placas nacaradas.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 53,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-romina-1.webp",
+     "w": 435,
+     "h": 517
+    },
+    {
+     "archivo": "collar-romina-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "collar-maribel",
+   "nombre": "Collar Maribel",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Collar doble caída con dijes de mariposas con placas nacaradas.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 54,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 35,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-maribel-1.webp",
+     "w": 468,
+     "h": 556
+    },
+    {
+     "archivo": "collar-maribel-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "collar-vilma",
+   "nombre": "Collar Vilma",
+   "categoria": "collares",
+   "seccion": "Combinación de collares",
+   "material": "Base en acero 316L bañado en oro de 18k",
+   "descripcion": "Collar doble caída con detalles de perlas acrílicas y dije de corazón.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": true,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 55,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 37,
+     "sku": "1093"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-vilma-1.webp",
+     "w": 435,
+     "h": 516
+    },
+    {
+     "archivo": "collar-vilma-2.webp",
+     "w": 543,
+     "h": 691
+    }
+   ]
+  },
+  {
+   "slug": "corazon-nacar",
+   "nombre": "Corazón Nácar",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable bañado en oro de 18k y efecto nacarado",
+   "descripcion": "Corazón con efecto nacarado y borde de circones.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 56,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1094"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-nacar-1.webp",
+     "w": 472,
+     "h": 431
+    }
+   ]
+  },
+  {
+   "slug": "moneda-romantica",
+   "nombre": "Moneda Romántica",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Base de acero inoxidable bañado en oro de 18k",
+   "descripcion": "Medallón de nácar con corazón dorado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 56,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1095"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "moneda-romantica-1.webp",
+     "w": 503,
+     "h": 471
+    }
+   ]
+  },
+  {
+   "slug": "flor-lila",
+   "nombre": "Flor Lila",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L hipoalergénico bañado en oro de 18k",
+   "descripcion": "Piezas giratorias. Collar de 50 cm y pulsera regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 57,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1096"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1097"
+    },
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1098"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flor-lila-1.webp",
+     "w": 543,
+     "h": 627
+    }
+   ]
+  },
+  {
+   "slug": "flor-de-luz-fucsia",
+   "nombre": "Flor de Luz Fucsia",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L hipoalergénico bañado en oro de 18k",
+   "descripcion": "Piezas giratorias. Collar de 50 cm y pulsera regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 57,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1099"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1100"
+    },
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1101"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flor-de-luz-fucsia-1.webp",
+     "w": 575,
+     "h": 640
+    }
+   ]
+  },
+  {
+   "slug": "flor-de-luz-rosado",
+   "nombre": "Flor de Luz Rosado",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L hipoalergénico bañado en oro de 18k",
+   "descripcion": "Piezas giratorias. Collar de 50 cm y pulsera regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 58,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1102"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1103"
+    },
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1104"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flor-de-luz-rosado-1.webp",
+     "w": 561,
+     "h": 650
+    }
+   ]
+  },
+  {
+   "slug": "floral-azul",
+   "nombre": "Floral Azul",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L hipoalergénico bañado en oro de 18k",
+   "descripcion": "Piezas giratorias. Collar de 50 cm y pulsera regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 58,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1105"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1106"
+    },
+    {
+     "tipo": "Set",
+     "precio": 50,
+     "sku": "1107"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "floral-azul-1.webp",
+     "w": 512,
+     "h": 570
+    }
+   ]
+  },
+  {
+   "slug": "corona-de-rapunzel",
+   "nombre": "Corona de Rapunzel",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L bañado en oro de 18k",
+   "descripcion": "Corona con corazón de cristal. El anillo es regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 59,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1108"
+    },
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": "1109"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rojo",
+      "Rosado",
+      "Morado",
+      "Cristalino"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Metal",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corona-de-rapunzel-1.webp",
+     "w": 508,
+     "h": 568
+    },
+    {
+     "archivo": "corona-de-rapunzel-2.webp",
+     "w": 500,
+     "h": 596
+    },
+    {
+     "archivo": "corona-de-rapunzel-3.webp",
+     "w": 563,
+     "h": 652
+    }
+   ]
+  },
+  {
+   "slug": "sol-de-rapunzel",
+   "nombre": "Sol de Rapunzel",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L bañado en oro de 18k",
+   "descripcion": "Sol con centro de color. El anillo es regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 60,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1110"
+    },
+    {
+     "tipo": "Anillo",
+     "precio": 17,
+     "sku": "1111"
+    },
+    {
+     "tipo": "Pulsera",
+     "precio": 30,
+     "sku": "1112"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Centro del dije",
+     "valores": [
+      "Blanco",
+      "Rosado",
+      "Morado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Metal",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "sol-de-rapunzel-1.webp",
+     "w": 480,
+     "h": 537
+    },
+    {
+     "archivo": "sol-de-rapunzel-2.webp",
+     "w": 512,
+     "h": 593
+    },
+    {
+     "archivo": "sol-de-rapunzel-3.webp",
+     "w": 516,
+     "h": 611
+    }
+   ]
+  },
+  {
+   "slug": "collar-dupe-pandora",
+   "nombre": "Collar Dupe Pandora",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L bañado en oro de 18k",
+   "descripcion": "Corazón de cristal con borde de circones. El anillo es regulable.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 61,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1113"
+    },
+    {
+     "tipo": "Anillo",
+     "precio": 17,
+     "sku": "1114"
+    },
+    {
+     "tipo": "Aretes",
+     "precio": 18,
+     "sku": "1115"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Cristalino",
+      "Rosado",
+      "Morado",
+      "Rojo",
+      "Verde",
+      "Azul"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Metal",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-dupe-pandora-1.webp",
+     "w": 478,
+     "h": 536
+    },
+    {
+     "archivo": "collar-dupe-pandora-2.webp",
+     "w": 561,
+     "h": 588
+    },
+    {
+     "archivo": "collar-dupe-pandora-3.webp",
+     "w": 510,
+     "h": 637
+    }
+   ]
+  },
+  {
+   "slug": "collar-boulevard",
+   "nombre": "Collar Boulevard",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Pieza en acero inoxidable 316L",
+   "descripcion": "Dije de delfín en nácar con circones.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 62,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 33,
+     "sku": "1115"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "50 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Metal",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Blanco",
+      "Celeste",
+      "Rosado",
+      "Traslúcido"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "collar-boulevard-1.webp",
+     "w": 453,
+     "h": 487
+    },
+    {
+     "archivo": "collar-boulevard-2.webp",
+     "w": 543,
+     "h": 723
+    },
+    {
+     "archivo": "collar-boulevard-3.webp",
+     "w": 708,
+     "h": 739
+    }
+   ]
+  },
+  {
+   "slug": "culpa-tuya-mia",
+   "nombre": "Culpa Tuya - Mía",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L",
+   "descripcion": "Corazón bombé. Escoge tu cadena y pide fotos para elegir.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 63,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 30,
+     "sku": "1116"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Medida",
+     "valores": [
+      "45 cm"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "culpa-tuya-mia-1.webp",
+     "w": 399,
+     "h": 442
+    },
+    {
+     "archivo": "culpa-tuya-mia-2.webp",
+     "w": 530,
+     "h": 640
+    },
+    {
+     "archivo": "culpa-tuya-mia-3.webp",
+     "w": 455,
+     "h": 554
+    }
+   ]
+  },
+  {
+   "slug": "jardin-de-tulipanes",
+   "nombre": "Jardín de Tulipanes",
+   "categoria": "pulseras",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L hipoalergénico",
+   "descripcion": "Pulsera de tulipanes. Pide fotos para ver todos los colores.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 64,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 40,
+     "sku": "1117"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Metal",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Rojo",
+      "Verde",
+      "Rosado",
+      "Lila",
+      "Morado",
+      "Cristalino"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "jardin-de-tulipanes-1.webp",
+     "w": 365,
+     "h": 404
+    },
+    {
+     "archivo": "jardin-de-tulipanes-2.webp",
+     "w": 470,
+     "h": 649
+    },
+    {
+     "archivo": "jardin-de-tulipanes-3.webp",
+     "w": 483,
+     "h": 569
+    }
+   ]
+  },
+  {
+   "slug": "juntos-siempre",
+   "nombre": "Juntos Siempre",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L hipoalergénico",
+   "descripcion": "Collares en pareja: corazón y espada. Pide fotos para ver todos los colores.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 65,
+   "variantes": [
+    {
+     "tipo": "Collar",
+     "precio": 55,
+     "sku": "1118"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "juntos-siempre-1.webp",
+     "w": 442,
+     "h": 490
+    },
+    {
+     "archivo": "juntos-siempre-2.webp",
+     "w": 579,
+     "h": 797
+    },
+    {
+     "archivo": "juntos-siempre-3.webp",
+     "w": 598,
+     "h": 705
+    }
+   ]
+  },
+  {
+   "slug": "cruz-en-pareja",
+   "nombre": "Cruz en Pareja",
+   "categoria": "collares",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L",
+   "descripcion": "Dos cruces para compartir. Puedes escoger la cadena de hombre o mujer.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 66,
+   "variantes": [
+    {
+     "tipo": "Pareja",
+     "precio": 55,
+     "sku": "1119"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "cruz-en-pareja-1.webp",
+     "w": 435,
+     "h": 482
+    },
+    {
+     "archivo": "cruz-en-pareja-2.webp",
+     "w": 555,
+     "h": 761
+    },
+    {
+     "archivo": "cruz-en-pareja-3.webp",
+     "w": 512,
+     "h": 603
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-en-pareja",
+   "nombre": "Pulseras en Pareja",
+   "categoria": "pulseras",
+   "seccion": "Para ellas",
+   "material": "Acero inoxidable 316L",
+   "descripcion": "Pueden escoger tonos combinados.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 67,
+   "variantes": [
+    {
+     "tipo": "Pareja",
+     "precio": 55,
+     "sku": "1119"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-en-pareja-1.webp",
+     "w": 453,
+     "h": 502
+    },
+    {
+     "archivo": "pulseras-en-pareja-2.webp",
+     "w": 526,
+     "h": 724
+    },
+    {
+     "archivo": "pulseras-en-pareja-3.webp",
+     "w": 532,
+     "h": 627
+    }
+   ]
+  },
+  {
+   "slug": "corazon-globo",
+   "nombre": "Corazón Globo",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 68,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1120"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-globo-1.webp",
+     "w": 480,
+     "h": 448
+    }
+   ]
+  },
+  {
+   "slug": "aretes-flor-hawaiana",
+   "nombre": "Aretes Flor Hawaiana",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Base de acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 68,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1121"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aretes-flor-hawaiana-1.webp",
+     "w": 480,
+     "h": 450
+    }
+   ]
+  },
+  {
+   "slug": "triple-aro",
+   "nombre": "Triple Aro",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 69,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1122"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "triple-aro-1.webp",
+     "w": 390,
+     "h": 551
+    },
+    {
+     "archivo": "triple-aro-2.webp",
+     "w": 414,
+     "h": 488
+    },
+    {
+     "archivo": "triple-aro-3.webp",
+     "w": 480,
+     "h": 668
+    }
+   ]
+  },
+  {
+   "slug": "doble-corazon",
+   "nombre": "Doble Corazón",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 70,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1123"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "doble-corazon-1.webp",
+     "w": 418,
+     "h": 463
+    },
+    {
+     "archivo": "doble-corazon-2.webp",
+     "w": 600,
+     "h": 722
+    },
+    {
+     "archivo": "doble-corazon-3.webp",
+     "w": 474,
+     "h": 573
+    }
+   ]
+  },
+  {
+   "slug": "gota",
+   "nombre": "Gota",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 71,
+   "variantes": [
+    {
+     "tipo": "Grande",
+     "precio": 22,
+     "sku": "1124"
+    },
+    {
+     "tipo": "Mediano",
+     "precio": 20,
+     "sku": "1125"
+    },
+    {
+     "tipo": "Pequeño",
+     "precio": 17,
+     "sku": "1126"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "gota-1.webp",
+     "w": 432,
+     "h": 479
+    },
+    {
+     "archivo": "gota-2.webp",
+     "w": 540,
+     "h": 650
+    },
+    {
+     "archivo": "gota-3.webp",
+     "w": 600,
+     "h": 731
+    }
+   ]
+  },
+  {
+   "slug": "almohada",
+   "nombre": "Almohada",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 72,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1127"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "almohada-1.webp",
+     "w": 394,
+     "h": 433
+    },
+    {
+     "archivo": "almohada-2.webp",
+     "w": 600,
+     "h": 723
+    }
+   ]
+  },
+  {
+   "slug": "rectangular",
+   "nombre": "Rectangular",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 72,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1128"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "rectangular-1.webp",
+     "w": 438,
+     "h": 479
+    },
+    {
+     "archivo": "rectangular-2.webp",
+     "w": 540,
+     "h": 658
+    }
+   ]
+  },
+  {
+   "slug": "arete-bomba",
+   "nombre": "Arete Bomba",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Piezas en acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 73,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1129"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-bomba-1.webp",
+     "w": 353,
+     "h": 387
+    },
+    {
+     "archivo": "arete-bomba-2.webp",
+     "w": 540,
+     "h": 651
+    }
+   ]
+  },
+  {
+   "slug": "aro-mediano",
+   "nombre": "Aro Mediano",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Piezas en acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 73,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1130"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aro-mediano-1.webp",
+     "w": 342,
+     "h": 375
+    },
+    {
+     "archivo": "aro-mediano-2.webp",
+     "w": 546,
+     "h": 666
+    }
+   ]
+  },
+  {
+   "slug": "petalos",
+   "nombre": "Pétalos",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 74,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1131"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "petalos-1.webp",
+     "w": 450,
+     "h": 494
+    },
+    {
+     "archivo": "petalos-2.webp",
+     "w": 509,
+     "h": 612
+    }
+   ]
+  },
+  {
+   "slug": "arete-flor",
+   "nombre": "Arete Flor",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 74,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1132"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-flor-1.webp",
+     "w": 425,
+     "h": 466
+    },
+    {
+     "archivo": "arete-flor-2.webp",
+     "w": 492,
+     "h": 600
+    }
+   ]
+  },
+  {
+   "slug": "triangulo",
+   "nombre": "Triángulo",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 75,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1133"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "triangulo-1.webp",
+     "w": 335,
+     "h": 368
+    },
+    {
+     "archivo": "triangulo-2.webp",
+     "w": 529,
+     "h": 638
+    }
+   ]
+  },
+  {
+   "slug": "rosca-plana",
+   "nombre": "Rosca Plana",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 75,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1134"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "rosca-plana-1.webp",
+     "w": 438,
+     "h": 480
+    },
+    {
+     "archivo": "rosca-plana-2.webp",
+     "w": 585,
+     "h": 713
+    }
+   ]
+  },
+  {
+   "slug": "aro-chunky",
+   "nombre": "Aro Chunky",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 76,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1135"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aro-chunky-1.webp",
+     "w": 480,
+     "h": 527
+    },
+    {
+     "archivo": "aro-chunky-2.webp",
+     "w": 600,
+     "h": 722
+    }
+   ]
+  },
+  {
+   "slug": "corazon-tex",
+   "nombre": "Corazón Tex",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 76,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1136"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-tex-1.webp",
+     "w": 438,
+     "h": 480
+    },
+    {
+     "archivo": "corazon-tex-2.webp",
+     "w": 580,
+     "h": 707
+    }
+   ]
+  },
+  {
+   "slug": "triple-gota",
+   "nombre": "Triple Gota",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 77,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1137"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "triple-gota-1.webp",
+     "w": 438,
+     "h": 480
+    },
+    {
+     "archivo": "triple-gota-2.webp",
+     "w": 600,
+     "h": 721
+    }
+   ]
+  },
+  {
+   "slug": "arete-cudri",
+   "nombre": "Arete Cudri",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 77,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1138"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-cudri-1.webp",
+     "w": 373,
+     "h": 410
+    },
+    {
+     "archivo": "arete-cudri-2.webp",
+     "w": 600,
+     "h": 732
+    }
+   ]
+  },
+  {
+   "slug": "3-petalos",
+   "nombre": "3 Pétalos",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 78,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1139"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "3-petalos-1.webp",
+     "w": 432,
+     "h": 423
+    },
+    {
+     "archivo": "3-petalos-2.webp",
+     "w": 600,
+     "h": 749
+    }
+   ]
+  },
+  {
+   "slug": "concha",
+   "nombre": "Concha",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 78,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1140"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "concha-1.webp",
+     "w": 423,
+     "h": 430
+    },
+    {
+     "archivo": "concha-2.webp",
+     "w": 600,
+     "h": 680
+    }
+   ]
+  },
+  {
+   "slug": "oval-dorado",
+   "nombre": "Oval Dorado",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "Óvalo dorado con perla.",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 79,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1141"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "oval-dorado-1.webp",
+     "w": 480,
+     "h": 462
+    },
+    {
+     "archivo": "oval-dorado-2.webp",
+     "w": 543,
+     "h": 679
+    }
+   ]
+  },
+  {
+   "slug": "flor-perla",
+   "nombre": "Flor Perla",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 79,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1142"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flor-perla-1.webp",
+     "w": 407,
+     "h": 414
+    },
+    {
+     "archivo": "flor-perla-2.webp",
+     "w": 543,
+     "h": 618
+    }
+   ]
+  },
+  {
+   "slug": "aretes-medianos",
+   "nombre": "Aretes Medianos",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 80,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1141"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aretes-medianos-1.webp",
+     "w": 449,
+     "h": 432
+    },
+    {
+     "archivo": "aretes-medianos-2.webp",
+     "w": 543,
+     "h": 679
+    }
+   ]
+  },
+  {
+   "slug": "arete-bola",
+   "nombre": "Arete Bola",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 80,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1142"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-bola-1.webp",
+     "w": 431,
+     "h": 438
+    },
+    {
+     "archivo": "arete-bola-2.webp",
+     "w": 543,
+     "h": 618
+    }
+   ]
+  },
+  {
+   "slug": "aretes-aperlados",
+   "nombre": "Aretes Aperlados",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 81,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1141"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aretes-aperlados-1.webp",
+     "w": 497,
+     "h": 480
+    },
+    {
+     "archivo": "aretes-aperlados-2.webp",
+     "w": 543,
+     "h": 679
+    }
+   ]
+  },
+  {
+   "slug": "sol-perla",
+   "nombre": "Sol Perla",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 81,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 22,
+     "sku": "1142"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "sol-perla-1.webp",
+     "w": 470,
+     "h": 480
+    },
+    {
+     "archivo": "sol-perla-2.webp",
+     "w": 543,
+     "h": 618
+    }
+   ]
+  },
+  {
+   "slug": "flores-esmaltadas-de-color",
+   "nombre": "Flores Esmaltadas de Color",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 82,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1143"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Verde",
+      "Azul"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flores-esmaltadas-de-color-1.webp",
+     "w": 374,
+     "h": 359
+    },
+    {
+     "archivo": "flores-esmaltadas-de-color-2.webp",
+     "w": 543,
+     "h": 679
+    },
+    {
+     "archivo": "flores-esmaltadas-de-color-3.webp",
+     "w": 396,
+     "h": 424
+    },
+    {
+     "archivo": "flores-esmaltadas-de-color-4.webp",
+     "w": 540,
+     "h": 612
+    }
+   ]
+  },
+  {
+   "slug": "flor-esmaltada",
+   "nombre": "Flor Esmaltada",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Esmaltado en efecto nacarado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 83,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 25,
+     "sku": "1145"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Blanco",
+      "Rosado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "flor-esmaltada-1.webp",
+     "w": 435,
+     "h": 477
+    },
+    {
+     "archivo": "flor-esmaltada-2.webp",
+     "w": 543,
+     "h": 653
+    },
+    {
+     "archivo": "flor-esmaltada-3.webp",
+     "w": 365,
+     "h": 400
+    },
+    {
+     "archivo": "flor-esmaltada-4.webp",
+     "w": 600,
+     "h": 732
+    }
+   ]
+  },
+  {
+   "slug": "arete-lazo-corazon",
+   "nombre": "Arete Lazo Corazón",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 84,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1147"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-lazo-corazon-1.webp",
+     "w": 438,
+     "h": 480
+    },
+    {
+     "archivo": "arete-lazo-corazon-2.webp",
+     "w": 499,
+     "h": 600
+    }
+   ]
+  },
+  {
+   "slug": "arete-lazo",
+   "nombre": "Arete Lazo",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 84,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1148"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-lazo-1.webp",
+     "w": 377,
+     "h": 413
+    },
+    {
+     "archivo": "arete-lazo-2.webp",
+     "w": 487,
+     "h": 593
+    }
+   ]
+  },
+  {
+   "slug": "arete-helen",
+   "nombre": "Arete Helen",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 85,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1149"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "arete-helen-1.webp",
+     "w": 439,
+     "h": 445
+    },
+    {
+     "archivo": "arete-helen-2.webp",
+     "w": 543,
+     "h": 679
+    }
+   ]
+  },
+  {
+   "slug": "lazo-perla",
+   "nombre": "Lazo Perla",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 85,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1150"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "lazo-perla-1.webp",
+     "w": 426,
+     "h": 387
+    },
+    {
+     "archivo": "lazo-perla-2.webp",
+     "w": 600,
+     "h": 682
+    }
+   ]
+  },
+  {
+   "slug": "aro-bomba",
+   "nombre": "Aro Bomba",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": true,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 86,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 18,
+     "sku": "1151"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aro-bomba-1.webp",
+     "w": 356,
+     "h": 390
+    },
+    {
+     "archivo": "aro-bomba-2.webp",
+     "w": 569,
+     "h": 685
+    }
+   ]
+  },
+  {
+   "slug": "corazon-punta",
+   "nombre": "Corazón Punta",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 86,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 18,
+     "sku": "1152"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-punta-1.webp",
+     "w": 323,
+     "h": 354
+    },
+    {
+     "archivo": "corazon-punta-2.webp",
+     "w": 522,
+     "h": 636
+    }
+   ]
+  },
+  {
+   "slug": "corazon-5",
+   "nombre": "Corazón 5",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 87,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1153"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-5-1.webp",
+     "w": 420,
+     "h": 466
+    },
+    {
+     "archivo": "corazon-5-2.webp",
+     "w": 512,
+     "h": 767
+    }
+   ]
+  },
+  {
+   "slug": "corazon-perlado",
+   "nombre": "Corazón Perlado",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "Corazones y lazos con perla en distintos diseños.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 88,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1153"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-perlado-1.webp",
+     "w": 421,
+     "h": 450
+    },
+    {
+     "archivo": "corazon-perlado-2.webp",
+     "w": 483,
+     "h": 724
+    },
+    {
+     "archivo": "corazon-perlado-3.webp",
+     "w": 473,
+     "h": 442
+    }
+   ]
+  },
+  {
+   "slug": "aros-basicos",
+   "nombre": "Aros Básicos",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 89,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1154"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aros-basicos-1.webp",
+     "w": 435,
+     "h": 565
+    },
+    {
+     "archivo": "aros-basicos-2.webp",
+     "w": 511,
+     "h": 638
+    },
+    {
+     "archivo": "aros-basicos-3.webp",
+     "w": 455,
+     "h": 518
+    },
+    {
+     "archivo": "aros-basicos-4.webp",
+     "w": 459,
+     "h": 521
+    }
+   ]
+  },
+  {
+   "slug": "aretes-pequenos",
+   "nombre": "Aretes Pequeños",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable 316L con baño en oro de 18k",
+   "descripcion": "Pequeños detalles para segundo y tercer hueguito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": true,
+   "pagina": 90,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1155"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "aretes-pequenos-1.webp",
+     "w": 435,
+     "h": 563
+    },
+    {
+     "archivo": "aretes-pequenos-2.webp",
+     "w": 435,
+     "h": 495
+    },
+    {
+     "archivo": "aretes-pequenos-3.webp",
+     "w": 535,
+     "h": 606
+    },
+    {
+     "archivo": "aretes-pequenos-4.webp",
+     "w": 543,
+     "h": 678
+    }
+   ]
+  },
+  {
+   "slug": "mini-corazon-aretes",
+   "nombre": "Mini Corazón",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 91,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 17,
+     "sku": "1158"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Blanco",
+      "Negro",
+      "Lila"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mini-corazon-aretes-1.webp",
+     "w": 468,
+     "h": 515
+    },
+    {
+     "archivo": "mini-corazon-aretes-2.webp",
+     "w": 432,
+     "h": 475
+    },
+    {
+     "archivo": "mini-corazon-aretes-3.webp",
+     "w": 465,
+     "h": 559
+    },
+    {
+     "archivo": "mini-corazon-aretes-4.webp",
+     "w": 492,
+     "h": 600
+    }
+   ]
+  },
+  {
+   "slug": "mariposa",
+   "nombre": "Mariposa",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 92,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1160"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Negro",
+      "Blanco"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mariposa-1.webp",
+     "w": 359,
+     "h": 394
+    },
+    {
+     "archivo": "mariposa-2.webp",
+     "w": 543,
+     "h": 653
+    }
+   ]
+  },
+  {
+   "slug": "trebol",
+   "nombre": "Trébol",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 92,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1161"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Negro",
+      "Dorado",
+      "Blanco"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "trebol-1.webp",
+     "w": 368,
+     "h": 404
+    },
+    {
+     "archivo": "trebol-2.webp",
+     "w": 477,
+     "h": 581
+    }
+   ]
+  },
+  {
+   "slug": "lazo-esmaltado",
+   "nombre": "Lazo Esmaltado",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 93,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1162"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "lazo-esmaltado-1.webp",
+     "w": 435,
+     "h": 477
+    },
+    {
+     "archivo": "lazo-esmaltado-2.webp",
+     "w": 543,
+     "h": 653
+    }
+   ]
+  },
+  {
+   "slug": "estrella",
+   "nombre": "Estrella",
+   "categoria": "aretes",
+   "seccion": "Aretes chunkys",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 93,
+   "variantes": [
+    {
+     "tipo": "Aretes",
+     "precio": 20,
+     "sku": "1163"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "estrella-1.webp",
+     "w": 403,
+     "h": 442
+    },
+    {
+     "archivo": "estrella-2.webp",
+     "w": 405,
+     "h": 494
+    }
+   ]
+  },
+  {
+   "slug": "trompa-de-elefante",
+   "nombre": "Trompa de Elefante",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 94,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "trompa-de-elefante-1.webp",
+     "w": 480,
+     "h": 448
+    }
+   ]
+  },
+  {
+   "slug": "corazon-bomba",
+   "nombre": "Corazón Bomba",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Base de acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 94,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "corazon-bomba-1.webp",
+     "w": 605,
+     "h": 566
+    }
+   ]
+  },
+  {
+   "slug": "bombitas",
+   "nombre": "Bombitas",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 95,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "bombitas-1.webp",
+     "w": 420,
+     "h": 487
+    },
+    {
+     "archivo": "bombitas-2.webp",
+     "w": 867,
+     "h": 606
+    }
+   ]
+  },
+  {
+   "slug": "picnis",
+   "nombre": "Picnis",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 96,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "picnis-1.webp",
+     "w": 531,
+     "h": 618
+    },
+    {
+     "archivo": "picnis-2.webp",
+     "w": 653,
+     "h": 806
+    }
+   ]
+  },
+  {
+   "slug": "florales",
+   "nombre": "Florales",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 97,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "florales-1.webp",
+     "w": 442,
+     "h": 513
+    },
+    {
+     "archivo": "florales-2.webp",
+     "w": 867,
+     "h": 606
+    }
+   ]
+  },
+  {
+   "slug": "primaveral",
+   "nombre": "Primaveral",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 98,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "primaveral-1.webp",
+     "w": 470,
+     "h": 546
+    },
+    {
+     "archivo": "primaveral-2.webp",
+     "w": 922,
+     "h": 643
+    }
+   ]
+  },
+  {
+   "slug": "veranito",
+   "nombre": "Veranito",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 99,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "veranito-1.webp",
+     "w": 480,
+     "h": 558
+    },
+    {
+     "archivo": "veranito-2.webp",
+     "w": 878,
+     "h": 612
+    }
+   ]
+  },
+  {
+   "slug": "trendy-punch",
+   "nombre": "Trendy Punch",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 100,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "trendy-punch-1.webp",
+     "w": 480,
+     "h": 558
+    },
+    {
+     "archivo": "trendy-punch-2.webp",
+     "w": 878,
+     "h": 612
+    }
+   ]
+  },
+  {
+   "slug": "silver",
+   "nombre": "Silver",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 101,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "silver-1.webp",
+     "w": 480,
+     "h": 558
+    },
+    {
+     "archivo": "silver-2.webp",
+     "w": 878,
+     "h": 612
+    }
+   ]
+  },
+  {
+   "slug": "chunky",
+   "nombre": "Chunky",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 102,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "chunky-1.webp",
+     "w": 480,
+     "h": 559
+    },
+    {
+     "archivo": "chunky-2.webp",
+     "w": 621,
+     "h": 760
+    }
+   ]
+  },
+  {
+   "slug": "mary-sol",
+   "nombre": "Mary Sol",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 103,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mary-sol-1.webp",
+     "w": 480,
+     "h": 558
+    },
+    {
+     "archivo": "mary-sol-2.webp",
+     "w": 908,
+     "h": 1054
+    },
+    {
+     "archivo": "mary-sol-3.webp",
+     "w": 448,
+     "h": 541
+    }
+   ]
+  },
+  {
+   "slug": "love-pink",
+   "nombre": "Love Pink",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 104,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 17,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "love-pink-1.webp",
+     "w": 908,
+     "h": 1055
+    },
+    {
+     "archivo": "love-pink-2.webp",
+     "w": 636,
+     "h": 788
+    }
+   ]
+  },
+  {
+   "slug": "romantica",
+   "nombre": "Romántica",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 105,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 18,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "romantica-1.webp",
+     "w": 432,
+     "h": 502
+    },
+    {
+     "archivo": "romantica-2.webp",
+     "w": 576,
+     "h": 689
+    }
+   ]
+  },
+  {
+   "slug": "florin",
+   "nombre": "Florin",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 106,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "florin-1.webp",
+     "w": 677,
+     "h": 786
+    },
+    {
+     "archivo": "florin-2.webp",
+     "w": 624,
+     "h": 772
+    }
+   ]
+  },
+  {
+   "slug": "dulce",
+   "nombre": "Dulce",
+   "categoria": "anillos",
+   "seccion": "Anillos",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todos regulables. En algunos modelos tenemos colores disponibles. Escoge tu favorito.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 107,
+   "variantes": [
+    {
+     "tipo": "Anillo",
+     "precio": 20,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "dulce-1.webp",
+     "w": 477,
+     "h": 554
+    },
+    {
+     "archivo": "dulce-2.webp",
+     "w": 483,
+     "h": 499
+    },
+    {
+     "archivo": "dulce-3.webp",
+     "w": 711,
+     "h": 824
+    },
+    {
+     "archivo": "dulce-4.webp",
+     "w": 643,
+     "h": 798
+    }
+   ]
+  },
+  {
+   "slug": "pulsera-cartier",
+   "nombre": "Pulsera Cartier",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 109,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1164"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulsera-cartier-1.webp",
+     "w": 480,
+     "h": 448
+    }
+   ]
+  },
+  {
+   "slug": "pulsera-snake",
+   "nombre": "Pulsera Snake",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Base de acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 109,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1165"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulsera-snake-1.webp",
+     "w": 480,
+     "h": 450
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-variadas",
+   "nombre": "Pulseras Variadas",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable 316L con baño en oro 18k",
+   "descripcion": "Todas regulables. Escoge tu favorita.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 110,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-variadas-1.webp",
+     "w": 450,
+     "h": 523
+    },
+    {
+     "archivo": "pulseras-variadas-2.webp",
+     "w": 840,
+     "h": 585
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-cartier",
+   "nombre": "Pulseras Cartier",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 111,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1166"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-cartier-1.webp",
+     "w": 480,
+     "h": 542
+    },
+    {
+     "archivo": "pulseras-cartier-2.webp",
+     "w": 600,
+     "h": 555
+    },
+    {
+     "archivo": "pulseras-cartier-3.webp",
+     "w": 484,
+     "h": 694
+    }
+   ]
+  },
+  {
+   "slug": "pulsera-cordon",
+   "nombre": "Pulsera Cordón",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 112,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulsera-cordon-1.webp",
+     "w": 390,
+     "h": 437
+    },
+    {
+     "archivo": "pulsera-cordon-2.webp",
+     "w": 516,
+     "h": 636
+    },
+    {
+     "archivo": "pulsera-cordon-3.webp",
+     "w": 470,
+     "h": 573
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-van-cleef",
+   "nombre": "Pulseras Van Cleef",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Variedad de colores.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 113,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": null
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Metal",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    },
+    {
+     "nombre": "Color",
+     "valores": [
+      "Negro",
+      "Blanco",
+      "Dorado",
+      "Celeste",
+      "Rosado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-van-cleef-1.webp",
+     "w": 431,
+     "h": 526
+    },
+    {
+     "archivo": "pulseras-van-cleef-2.webp",
+     "w": 540,
+     "h": 650
+    },
+    {
+     "archivo": "pulseras-van-cleef-3.webp",
+     "w": 600,
+     "h": 731
+    }
+   ]
+  },
+  {
+   "slug": "mini-circon",
+   "nombre": "Mini Circón",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k con circones",
+   "descripcion": "Solo dorado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 114,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 30,
+     "sku": "1168"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Cristalino",
+      "Rosado",
+      "Verde",
+      "Negro",
+      "Tornasolado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "mini-circon-1.webp",
+     "w": 481,
+     "h": 543
+    },
+    {
+     "archivo": "mini-circon-2.webp",
+     "w": 543,
+     "h": 653
+    },
+    {
+     "archivo": "mini-circon-3.webp",
+     "w": 908,
+     "h": 1106
+    }
+   ]
+  },
+  {
+   "slug": "pulsera-chunkys",
+   "nombre": "Pulsera Chunkys",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 115,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 30,
+     "sku": "1169"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulsera-chunkys-1.webp",
+     "w": 435,
+     "h": 524
+    },
+    {
+     "archivo": "pulsera-chunkys-2.webp",
+     "w": 477,
+     "h": 594
+    },
+    {
+     "archivo": "pulsera-chunkys-3.webp",
+     "w": 500,
+     "h": 600
+    },
+    {
+     "archivo": "pulsera-chunkys-4.webp",
+     "w": 450,
+     "h": 471
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-brazalete",
+   "nombre": "Pulseras Brazalete",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 116,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 30,
+     "sku": "1171"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-brazalete-1.webp",
+     "w": 435,
+     "h": 518
+    },
+    {
+     "archivo": "pulseras-brazalete-2.webp",
+     "w": 484,
+     "h": 546
+    },
+    {
+     "archivo": "pulseras-brazalete-3.webp",
+     "w": 535,
+     "h": 630
+    },
+    {
+     "archivo": "pulseras-brazalete-4.webp",
+     "w": 438,
+     "h": 482
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-doble-caida",
+   "nombre": "Pulseras Doble Caída",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 117,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1173"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-doble-caida-1.webp",
+     "w": 449,
+     "h": 506
+    },
+    {
+     "archivo": "pulseras-doble-caida-2.webp",
+     "w": 543,
+     "h": 653
+    },
+    {
+     "archivo": "pulseras-doble-caida-3.webp",
+     "w": 566,
+     "h": 690
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-abiertas",
+   "nombre": "Pulseras Abiertas",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Pulseras abiertas con flor, concha, corazón y flecha.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 118,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 28,
+     "sku": "1173"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-abiertas-1.webp",
+     "w": 398,
+     "h": 438
+    },
+    {
+     "archivo": "pulseras-abiertas-2.webp",
+     "w": 560,
+     "h": 673
+    },
+    {
+     "archivo": "pulseras-abiertas-3.webp",
+     "w": 485,
+     "h": 590
+    },
+    {
+     "archivo": "pulseras-abiertas-4.webp",
+     "w": 468,
+     "h": 465
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-flex",
+   "nombre": "Pulseras Flex",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable chapado en oro de 18k",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 119,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 35,
+     "sku": "1176"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "pulseras-flex-1.webp",
+     "w": 480,
+     "h": 542
+    },
+    {
+     "archivo": "pulseras-flex-2.webp",
+     "w": 500,
+     "h": 600
+    },
+    {
+     "archivo": "pulseras-flex-3.webp",
+     "w": 600,
+     "h": 731
+    }
+   ]
+  },
+  {
+   "slug": "acrilicas-rectangulares",
+   "nombre": "Acrílicas Rectangulares",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Pulseras acrílicas en distintos tonos con efecto mármol",
+   "descripcion": "Diseño cuadrado.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 120,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 27,
+     "sku": "1177"
+    }
+   ],
+   "opciones": [],
+   "fotos": [
+    {
+     "archivo": "acrilicas-rectangulares-1.webp",
+     "w": 480,
+     "h": 540
+    },
+    {
+     "archivo": "acrilicas-rectangulares-2.webp",
+     "w": 490,
+     "h": 589
+    },
+    {
+     "archivo": "acrilicas-rectangulares-3.webp",
+     "w": 505,
+     "h": 616
+    }
+   ]
+  },
+  {
+   "slug": "pulseras-europeas",
+   "nombre": "Pulseras Europeas",
+   "categoria": "pulseras",
+   "seccion": "Pulseras y relojes",
+   "material": "Pulseras acrílicas en distintos tonos con efecto mármol",
+   "descripcion": "Con pretina elástica. Diseño circular.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": true,
+   "precioPendiente": false,
+   "pagina": 121,
+   "variantes": [
+    {
+     "tipo": "Pulsera",
+     "precio": 25,
+     "sku": "1174"
+    }
+   ],
+   "opciones": [],
+   "fotos": [
+    {
+     "archivo": "pulseras-europeas-1.webp",
+     "w": 480,
+     "h": 542
+    },
+    {
+     "archivo": "pulseras-europeas-2.webp",
+     "w": 500,
+     "h": 602
+    },
+    {
+     "archivo": "pulseras-europeas-3.webp",
+     "w": 442,
+     "h": 538
+    }
+   ]
+  },
+  {
+   "slug": "relojes-con-diseno-de-pulsera",
+   "nombre": "Relojes con Diseño de Pulsera",
+   "categoria": "relojes",
+   "seccion": "Pulseras y relojes",
+   "material": "Piezas en acero inoxidable bañadas en oro de 18k",
+   "descripcion": "Reloj con diseño de pulsera. Diseño circular.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 122,
+   "variantes": [
+    {
+     "tipo": "Reloj",
+     "precio": 45,
+     "sku": "1174"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "relojes-con-diseno-de-pulsera-1.webp",
+     "w": 423,
+     "h": 480
+    },
+    {
+     "archivo": "relojes-con-diseno-de-pulsera-2.webp",
+     "w": 543,
+     "h": 653
+    },
+    {
+     "archivo": "relojes-con-diseno-de-pulsera-3.webp",
+     "w": 543,
+     "h": 662
+    }
+   ]
+  },
+  {
+   "slug": "relojes-dali",
+   "nombre": "Relojes Dali",
+   "categoria": "relojes",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Diseños regulables.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 123,
+   "variantes": [
+    {
+     "tipo": "Reloj",
+     "precio": 45,
+     "sku": "1174"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Vino",
+      "Blanco",
+      "Negro"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "relojes-dali-1.webp",
+     "w": 435,
+     "h": 491
+    },
+    {
+     "archivo": "relojes-dali-2.webp",
+     "w": 543,
+     "h": 653
+    },
+    {
+     "archivo": "relojes-dali-3.webp",
+     "w": 543,
+     "h": 662
+    }
+   ]
+  },
+  {
+   "slug": "relojes-old-money",
+   "nombre": "Relojes Old Money",
+   "categoria": "relojes",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Diseños regulables.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 124,
+   "variantes": [
+    {
+     "tipo": "Reloj",
+     "precio": 65,
+     "sku": "1174"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Vino",
+      "Dorado",
+      "Negro"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "relojes-old-money-1.webp",
+     "w": 480,
+     "h": 540
+    },
+    {
+     "archivo": "relojes-old-money-2.webp",
+     "w": 600,
+     "h": 721
+    },
+    {
+     "archivo": "relojes-old-money-3.webp",
+     "w": 600,
+     "h": 731
+    }
+   ]
+  },
+  {
+   "slug": "relojes-dani",
+   "nombre": "Relojes Dani",
+   "categoria": "relojes",
+   "seccion": "Pulseras y relojes",
+   "material": "Acero inoxidable bañado en oro de 18k",
+   "descripcion": "Diseños regulables.",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 125,
+   "variantes": [
+    {
+     "tipo": "Reloj",
+     "precio": 55,
+     "sku": "1174"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "relojes-dani-1.webp",
+     "w": 537,
+     "h": 602
+    },
+    {
+     "archivo": "relojes-dani-2.webp",
+     "w": 532,
+     "h": 640
+    },
+    {
+     "archivo": "relojes-dani-3.webp",
+     "w": 525,
+     "h": 640
+    }
+   ]
+  },
+  {
+   "slug": "reloj-correa",
+   "nombre": "Reloj Correa",
+   "categoria": "relojes",
+   "seccion": "Pulseras y relojes",
+   "material": "Reloj regulable elaborado en cuero genuino",
+   "descripcion": "",
+   "agotado": false,
+   "destacado": false,
+   "nuevo": false,
+   "escogeDiseno": false,
+   "precioPendiente": false,
+   "pagina": 126,
+   "variantes": [
+    {
+     "tipo": "Reloj",
+     "precio": 45,
+     "sku": "1175"
+    }
+   ],
+   "opciones": [
+    {
+     "nombre": "Color",
+     "valores": [
+      "Dorado",
+      "Plateado"
+     ],
+     "requerida": false
+    }
+   ],
+   "fotos": [
+    {
+     "archivo": "reloj-correa-1.webp",
+     "w": 480,
+     "h": 530
+    },
+    {
+     "archivo": "reloj-correa-2.webp",
+     "w": 548,
+     "h": 659
+    },
+    {
+     "archivo": "reloj-correa-3.webp",
+     "w": 492,
+     "h": 600
+    },
+    {
+     "archivo": "reloj-correa-4.webp",
+     "w": 480,
+     "h": 476
+    }
+   ]
+  }
+ ]
+}
