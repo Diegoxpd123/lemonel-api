@@ -47,6 +47,14 @@ El importador no duplica productos: si ya existen, los salta.
 - `/api/admin/*`: productos, fotos, categorías, colecciones, colores, preguntas, ajustes y videos de portada (requieren sesión).
 - `GET /uploads/*`: fotos y videos.
 
+## Pedidos y seguimiento
+
+- `POST /api/public/pedidos`: crea un pedido desde el carrito de la tienda. El servidor recalcula precios y descuentos y valida opciones y stock. Límite de 8 por hora por IP (cabecera `x-forwarded-for`) y 300 por hora en total.
+- `GET /api/public/pedido/:token`: vista pública del comprador. Solo expone nombre de pila, productos, montos, estados y mensajes. Nunca teléfono, nota interna, método de pago ni capturas.
+- `/api/admin/pedidos/*`: lista con filtros y búsqueda, creación a mano, edición, cambio de estado, pagos con captura, cancelar, link nuevo y borrado.
+- Las capturas de pago se guardan en `UPLOADS_DIR/privado/pagos` y solo se sirven por `GET /api/admin/pedidos/pagos/:id/captura` con sesión. `/uploads/privado/*` responde 404.
+- Estados: `recibido`, `pagado`, `preparando`, `enviado`, `entregado` (más `cancelado` como bandera).
+
 ## Sesión del panel
 
 La sesión usa una cookie `HttpOnly` con `SameSite=Lax`. Por eso el panel y la API deben estar bajo el mismo dominio principal (por ejemplo `lemonel-admin.tupaginazo.com` y `lemonel-api.tupaginazo.com`).
