@@ -9,7 +9,7 @@ const MAX_IMAGEN = 15 * 1024 * 1024
 const MAX_VIDEO = 80 * 1024 * 1024
 
 export const asegurarCarpetas = async () => {
-  for (const d of ['productos', 'colecciones', 'hero']) {
+  for (const d of ['productos', 'colecciones', 'hero', 'privado/pagos']) {
     await fs.mkdir(path.join(env.uploads, d), { recursive: true })
   }
 }
@@ -63,6 +63,41 @@ export const borrarArchivo = async (archivo: string) => {
     } catch {
       continue
     }
+  }
+}
+
+export const guardarCaptura = async (file: File) => {
+  if (!file.type.startsWith('image/')) throw new HTTPException(400, { message: 'La captura debe ser una imagen' })
+  if (file.size > MAX_IMAGEN) throw new HTTPException(400, { message: 'La captura supera los 15 MB' })
+  const nombre = `privado/pagos/captura-${crypto.randomBytes(8).toString('hex')}.webp`
+  try {
+    const out = await sharp(Buffer.from(await file.arrayBuffer())).rotate().resize({ width: 1600, height: 2400, fit: 'inside', withoutEnlargement: true }).webp({ quality: 82 }).toBuffer()
+    await fs.mkdir(path.join(env.uploads, 'privado/pagos'), { recursive: true })
+    await fs.writeFile(path.join(env.uploads, nombre), out)
+  } catch {
+    throw new HTTPException(400, { message: 'No se pudo procesar la captura' })
+  }
+  return nombre
+}
+
+export const leerPrivado = async (archivo: string) => {
+  const seguro = path.normalize(archivo)
+  if (!seguro.startsWith('privado')) throw new HTTPException(404, { message: 'No encontrado' })
+  try {
+    return await fs.readFile(path.join(env.uploads, seguro))
+  } catch {
+    throw new HTTPException(404, { message: 'No encontrado' })
+  }
+}
+
+export const borrarPrivado = async (archivo: string | null) => {
+  if (!archivo) return
+  const seguro = path.normalize(archivo)
+  if (!seguro.startsWith('privado')) return
+  try {
+    await fs.unlink(path.join(env.uploads, seguro))
+  } catch {
+    return
   }
 }
 

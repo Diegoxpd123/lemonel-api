@@ -11,6 +11,7 @@ import { publico } from './routes/public.js'
 import { productos } from './routes/productos.js'
 import { catalogo } from './routes/catalogo.js'
 import { sitio } from './routes/sitio.js'
+import { pedidos } from './routes/pedidos.js'
 
 fs.mkdirSync(env.uploads, { recursive: true })
 
@@ -29,6 +30,8 @@ app.use(
   }),
 )
 
+app.all('/uploads/privado/*', (c) => c.json({ error: 'No encontrado' }, 404))
+
 app.use(
   '/uploads/*',
   async (c, next) => {
@@ -44,6 +47,7 @@ app.get('/salud', (c) => c.json({ ok: true }))
 app.route('/api/auth', auth)
 app.route('/api/public', publico)
 app.route('/api/admin/productos', productos)
+app.route('/api/admin/pedidos', pedidos)
 app.route('/api/admin', catalogo)
 app.route('/api/admin', sitio)
 

@@ -128,3 +128,69 @@ model Ajuste {
   clave String @id
   valor Json
 }
+
+model Pedido {
+  id          Int            @id @default(autoincrement())
+  codigo      String         @unique
+  token       String         @unique
+  origen      String         @default("manual")
+  estado      String         @default("recibido")
+  cancelado   Boolean        @default(false)
+  cliente     String         @default("")
+  whatsapp    String         @default("")
+  ciudad      String         @default("")
+  nota        String         @default("")
+  metodoEnvio String         @default("")
+  agencia     String         @default("")
+  seguimiento String         @default("")
+  envioCosto  Decimal        @default(0) @db.Decimal(10, 2)
+  descuento   Decimal        @default(0) @db.Decimal(10, 2)
+  creado      DateTime       @default(now())
+  actualizado DateTime       @updatedAt
+  items       PedidoItem[]
+  pagos       Pago[]
+  eventos     PedidoEvento[]
+
+  @@index([estado])
+  @@index([creado])
+}
+
+model PedidoItem {
+  id         Int     @id @default(autoincrement())
+  pedidoId   Int
+  pedido     Pedido  @relation(fields: [pedidoId], references: [id], onDelete: Cascade)
+  productoId Int?
+  nombre     String
+  detalle    String  @default("")
+  sku        String?
+  foto       String?
+  precio     Decimal @db.Decimal(10, 2)
+  cantidad   Int
+  orden      Int     @default(0)
+
+  @@index([pedidoId])
+}
+
+model Pago {
+  id       Int      @id @default(autoincrement())
+  pedidoId Int
+  pedido   Pedido   @relation(fields: [pedidoId], references: [id], onDelete: Cascade)
+  monto    Decimal  @db.Decimal(10, 2)
+  metodo   String
+  nota     String   @default("")
+  captura  String?
+  fecha    DateTime @default(now())
+
+  @@index([pedidoId])
+}
+
+model PedidoEvento {
+  id       Int      @id @default(autoincrement())
+  pedidoId Int
+  pedido   Pedido   @relation(fields: [pedidoId], references: [id], onDelete: Cascade)
+  estado   String
+  nota     String   @default("")
+  fecha    DateTime @default(now())
+
+  @@index([pedidoId])
+}

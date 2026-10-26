@@ -7,6 +7,7 @@ import { esquemas, leerAjustes, type ClaveAjuste } from '../ajustes.js'
 import { parse } from '../util.js'
 import { borrarArchivo, guardarPoster, guardarVideo, urlDe } from '../files.js'
 import { invalidar } from '../cache.js'
+import { cifras, incluirPedido } from '../pedidos.js'
 
 export const sitio = new Hono<{ Variables: { admin: Sesion } }>()
 
@@ -79,7 +80,15 @@ sitio.get('/resumen', async (c) => {
     db.categoria.findMany({ orderBy: [{ orden: 'asc' }, { id: 'asc' }], include: { _count: { select: { productos: true } } } }),
   ])
   const sinFoto = await db.producto.count({ where: { fotos: { none: {} } } })
+  const vivos = await db.pedido.findMany({ where: { cancelado: false, estado: { not: 'entregado' } }, include: incluirPedido })
+  const pedidos = {
+    nuevos: vivos.filter((p) => p.estado === 'recibido').length,
+    porEnviar: vivos.filter((p) => p.estado === 'pagado' || p.estado === 'preparando').length,
+    enCamino: vivos.filter((p) => p.estado === 'enviado').length,
+    conSaldo: vivos.filter((p) => cifras(p).saldo > 0).length,
+  }
   return c.json({
+    pedidos,
     productos,
     agotados,
     ocultos,
