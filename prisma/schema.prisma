@@ -71,6 +71,7 @@ model Opcion {
   producto   Producto @relation(fields: [productoId], references: [id], onDelete: Cascade)
   nombre     String
   valores    String[]
+  agotados   String[] @default([])
   requerida  Boolean  @default(false)
   orden      Int      @default(0)
 

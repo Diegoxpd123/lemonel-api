@@ -26,11 +26,14 @@ const variante = z.object({
   agotado: z.boolean().default(false),
 })
 
-const opcion = z.object({
-  nombre: z.string().trim().min(1, 'Escribe el nombre').max(40),
-  valores: z.array(z.string().trim().min(1).max(40)).max(60).default([]),
-  requerida: z.boolean().default(false),
-})
+const opcion = z
+  .object({
+    nombre: z.string().trim().min(1, 'Escribe el nombre').max(40),
+    valores: z.array(z.string().trim().min(1).max(40)).max(60).default([]),
+    agotados: z.array(z.string().trim().min(1).max(40)).max(60).default([]),
+    requerida: z.boolean().default(false),
+  })
+  .transform((o) => ({ ...o, agotados: o.agotados.filter((a) => o.valores.includes(a)) }))
 
 const cuerpo = z.object({
   nombre: z.string().trim().min(2, 'Escribe el nombre').max(120),
@@ -61,6 +64,7 @@ productos.get('/', async (c) => {
     include: {
       categoria: true,
       variantes: { orderBy: [{ orden: 'asc' }, { id: 'asc' }] },
+      opciones: { orderBy: [{ orden: 'asc' }, { id: 'asc' }] },
       fotos: { orderBy: [{ orden: 'asc' }, { id: 'asc' }], take: 1 },
     },
   })
@@ -78,6 +82,7 @@ productos.get('/', async (c) => {
       nuevo: p.nuevo,
       orden: p.orden,
       variantes: p.variantes.length,
+      sinStock: [...p.variantes.filter((v) => v.agotado).map((v) => v.tipo), ...p.opciones.flatMap((o) => o.agotados.filter((a) => o.valores.includes(a)))],
       precioDesde: p.variantes.length ? Math.min(...p.variantes.map((v) => Number(v.precio))) : 0,
       foto: p.fotos[0] ? urlDe(smDe(p.fotos[0].archivo)) : null,
     })),
@@ -188,7 +193,7 @@ productos.post('/:id/duplicar', async (c) => {
       escogeDiseno: p.escogeDiseno,
       orden: (maximo._max.orden ?? 0) + 1,
       variantes: { create: p.variantes.map((v, i) => ({ tipo: v.tipo, precio: v.precio, sku: v.sku, agotado: v.agotado, orden: i })) },
-      opciones: { create: p.opciones.map((o, i) => ({ nombre: o.nombre, valores: o.valores, requerida: o.requerida, orden: i })) },
+      opciones: { create: p.opciones.map((o, i) => ({ nombre: o.nombre, valores: o.valores, agotados: o.agotados, requerida: o.requerida, orden: i })) },
       colecciones: { create: p.colecciones.map((x) => ({ coleccionId: x.coleccionId })) },
     },
   })
