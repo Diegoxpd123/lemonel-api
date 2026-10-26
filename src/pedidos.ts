@@ -21,6 +21,8 @@ export const nuevoToken = () => crypto.randomBytes(12).toString('base64url')
 
 export const soloDigitos = (s: string) => s.replace(/\D/g, '')
 
+export const telefonoPeru = (d: string) => (d.length === 9 && d.startsWith('9') ? `51${d}` : d)
+
 export const cifras = (p: PedidoCompleto) => {
   const subtotal = redondear(p.items.reduce((a, i) => a + Number(i.precio) * i.cantidad, 0))
   const descuento = Number(p.descuento)

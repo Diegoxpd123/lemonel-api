@@ -8,7 +8,7 @@ import { urlDe } from '../files.js'
 import { versionActual } from '../cache.js'
 import { parse } from '../util.js'
 import { ipDe, limitar } from '../limite.js'
-import { cifras, detalleDe, incluirPedido, nuevoToken, pedidoPublico, redondear } from '../pedidos.js'
+import { cifras, detalleDe, incluirPedido, nuevoToken, pedidoPublico, redondear, soloDigitos, telefonoPeru } from '../pedidos.js'
 
 export const publico = new Hono()
 
@@ -71,7 +71,20 @@ const entradaTienda = z.object({
   qty: z.coerce.number().int().min(1, 'La cantidad mínima es 1').max(999),
 })
 
+const clienteTienda = z.object({
+  nombre: z.string().trim().min(2, 'Escribe tu nombre').max(120),
+  whatsapp: z
+    .string()
+    .trim()
+    .max(30)
+    .transform(soloDigitos)
+    .transform(telefonoPeru)
+    .refine((d) => d.length >= 10 && d.length <= 15, 'Escribe un número de WhatsApp válido'),
+  ciudad: z.string().trim().min(2, 'Escribe tu ciudad').max(80),
+})
+
 const cuerpoTienda = z.object({
+  cliente: clienteTienda.optional(),
   items: z.array(entradaTienda).min(1, 'El carrito está vacío').max(60),
   nota: z.string().trim().max(500).default(''),
   evento: z
@@ -80,7 +93,7 @@ const cuerpoTienda = z.object({
 })
 
 publico.post('/pedidos', async (c) => {
-  limitar(`pedido:${ipDe(c)}`, 8, 60 * 60 * 1000)
+  limitar(`pedido:${ipDe(c)}`, 20, 60 * 60 * 1000)
   limitar('pedido:global', 300, 60 * 60 * 1000)
   const b = parse(cuerpoTienda, await c.req.json().catch(() => ({})))
   const ids = [...new Set(b.items.map((i) => i.id))]
@@ -127,7 +140,17 @@ publico.post('/pedidos', async (c) => {
 
   const creado = await db.$transaction(async (tx) => {
     const p = await tx.pedido.create({
-      data: { codigo: `tmp-${nuevoToken()}`, token: nuevoToken(), origen: 'tienda', nota: notas, items: { create: items }, eventos: { create: { estado: 'recibido', nota: '' } } },
+      data: {
+        codigo: `tmp-${nuevoToken()}`,
+        token: nuevoToken(),
+        origen: 'tienda',
+        cliente: b.cliente?.nombre ?? '',
+        whatsapp: b.cliente?.whatsapp ?? '',
+        ciudad: b.cliente?.ciudad ?? '',
+        nota: notas,
+        items: { create: items },
+        eventos: { create: { estado: 'recibido', nota: '' } },
+      },
     })
     return tx.pedido.update({ where: { id: p.id }, data: { codigo: `LM-${1000 + p.id}` }, include: incluirPedido })
   })
